@@ -1,8 +1,8 @@
-package com.ravkarri.Jataka.controller;
+package com.ravkarri.Jatak.controller;
 
-import com.ravkarri.Jataka.entity.ChartInput;
-import com.ravkarri.Jataka.entity.HoroscopeData;
-import com.ravkarri.Jataka.util.ProcessHoroscope;
+import com.ravkarri.Jatak.entity.ChartInput;
+import com.ravkarri.Jatak.entity.HoroscopeData;
+import com.ravkarri.Jatak.util.ProcessHoroscope;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.GetMapping;

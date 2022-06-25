@@ -1,4 +1,4 @@
-package com.ravkarri.Jataka.entity;
+package com.ravkarri.Jatak.entity;
 
 import org.springframework.stereotype.Component;
 

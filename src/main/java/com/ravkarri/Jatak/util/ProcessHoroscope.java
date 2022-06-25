@@ -1,8 +1,7 @@
-package com.ravkarri.Jataka.util;
+package com.ravkarri.Jatak.util;
 
-import com.ravkarri.Jataka.entity.ChartInput;
-import com.ravkarri.Jataka.entity.HoroscopeData;
-import org.springframework.beans.factory.annotation.Autowired;
+import com.ravkarri.Jatak.entity.HoroscopeData;
+import com.ravkarri.Jatak.entity.ChartInput;
 import org.springframework.stereotype.Component;
 
 @Component

@@ -1,13 +1,13 @@
-package com.ravkarri.Jatak;
+package com.ravkarri.jataka;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JatakApplication {
+public class JatakaApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(JatakApplication.class, args);
+		SpringApplication.run(JatakaApplication.class, args);
 	}
 
 }
